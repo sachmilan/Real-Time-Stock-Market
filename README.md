@@ -18,7 +18,7 @@ Live news about stocks and search results for stock prices etc.
 -Open your Git bash application
 -Type in command mkdir Real Time Stock Analysis
 -By using cd command go into Real Time Stock Analysis
--Enter git clone https://github.com/JWMedeiros/Realtime_Stock_Analysis.git
+-Enter git clone https://github.com/sachmilan/Real-Time-Stock-Market.git
 
 ## Credits
 

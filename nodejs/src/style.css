@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mystyle{
+    max-width: 100%;
+    display: block;
+    background-color: brown;
+}
+
+.hidden{
+    display: none;
+}
